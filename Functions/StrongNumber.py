@@ -11,7 +11,7 @@ def factorial(n):
 def is_strong_number(num):
     temp = num
     total = 0
-    
+
 #A Strong Number is a number where the sum of factorials of its digits is equal to the number itself.
 
     while temp > 0:

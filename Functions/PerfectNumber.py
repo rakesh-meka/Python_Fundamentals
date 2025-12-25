@@ -21,4 +21,3 @@ if is_perfect(number):
     print(number, "is a Perfect Number")
 else:
     print(number, "is NOT a Perfect Number")
-
